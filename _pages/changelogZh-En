@@ -1,0 +1,121 @@
+---
+layout: page
+title: What's New
+include_in_header: true
+---
+
+# Changelog / 更新日志
+
+Here you can view the development and update history of our application. / 您可以在此查看我们应用程序的开发与更新历史。
+
+---
+
+## English
+
+### `Latest`
+# **Version 2.0**
+This is a major update to our application, bringing performance optimizations and user experience enhancements.
+
+#### What's New
+- Optimized core performance and layout transitions.
+- Updated the game account service to support cloud data synchronization.
+- [Changes to Privacy Policy](/privacypolicy)
+
+#### Bug Fixes
+- Fixed minor graphical glitches on certain devices.
+- Resolved localization display issues.
+
+<br>
+
+### **Version 2.1**
+This update includes stability improvements and minor bug fixes to ensure a smoother experience.
+
+#### What's New
+- Enhanced background processing for game saves.
+- Optimized network connectivity verification.
+
+<br>
+
+________
+<br>
+
+### `Initial Release`
+# **Version 1.0**
+The official debut of our puzzle game! Thank you for downloading and playing. Dive into challenging levels and enjoy an ad-free casual experience.
+
+<br>
+
+## **Version 1.1**
+Minor feature enhancements based on early community feedback.
+
+#### What's New
+- Improved level completion animations.
+- Fine-tuned the gold coin rewards balancing system.
+
+<br>
+
+## Version 1.0.1
+The first hotfix patch to address day-one issues.
+
+#### What's New
+- Added a connection status indicator on the settings panel.
+
+#### Bug Fixes
+- Improved user sign-up and authentication experience.
+- Fixed a potential crash during the initial loading sequence.
+
+---
+
+## 简体中文
+
+### `最新版本`
+# **Version 2.0**
+这是我们应用的一次重大更新，带来了全面的性能优化与用户体验提升。
+
+#### 新增特性
+- 优化了核心性能与布局切换流畅度。
+- 更新了游戏账户服务，以支持云端数据同步。
+- [查看隐私政策变更](/privacypolicy)
+
+#### 缺陷修复
+- 修复了特定设备上的轻微画面闪烁问题。
+- 解决了部分文本本地化显示不全的问题。
+
+<br>
+
+### **Version 2.1**
+此版本包含稳定性提升和常规缺陷修复，以确保更顺畅的游戏体验。
+
+#### 新增特性
+- 增强了游戏存档的后台处理逻辑。
+- 优化了网络连接状态的验证机制。
+
+<br>
+
+________
+<br>
+
+### `首次发布`
+# **Version 1.0**
+我们的益智休闲游戏正式面世！感谢您的下载与游玩。快来投入极具挑战性的关卡，享受无广告的纯粹休闲时光。
+
+<br>
+
+## **Version 1.1**
+根据早期用户反馈进行的细节功能改进。
+
+#### 新增特性
+- 优化了通关时的动画视觉效果。
+- 微调了关卡挑战的金币奖励平衡性系统。
+
+<br>
+
+## Version 1.0.1
+针对上线首日发现的问题推出的首个紧急修复补丁。
+
+#### 新增特性
+- 在设置面板中增加了网络连接状态指示器。
+
+#### 缺陷修复
+- 优化了用户注册与账户认证的流程体验。
+- 修复了初始加载序列中可能导致闪退的潜在漏洞。
